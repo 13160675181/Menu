@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MenuContext</string>
+    <string name="menu">上下菜单</string>
+    <string name="新建">上下菜单</string>
+    <string name="打开">上下菜单</string>
+</resources>
